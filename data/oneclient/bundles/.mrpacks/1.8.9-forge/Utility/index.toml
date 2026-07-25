@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/animatium-legacy.pw.toml"
+hash = "5f91d0c5b99c7064d18b50bff954b25e60ee128d8492b37a755d419ad584f781"
+metafile = true
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "f7bfad6921ceddd95b5c832ebfbf35916e7e5c9e9becbe5f7b28748de0ccb5dd"
+metafile = true
+
+[[files]]
+file = "mods/hitbox.pw.toml"
+hash = "0949fdf91b9ae0dab06b3df95c3f6b3d877ba3990de88b042077960ac9fff18c"
+metafile = true
+
+[[files]]
+file = "mods/optibye.pw.toml"
+hash = "c12f4c0929da8264189f3b86212aafb7861c841ca870390d9423bcfb00361b01"
+metafile = true

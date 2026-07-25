@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/chatting.pw.toml"
+hash = "f6dbfe10ae88adc3045784bb880ebf91addbdf2d677fa0fef74c8d24c7b603fe"
+metafile = true
+
+[[files]]
+file = "mods/evergreenhud.pw.toml"
+hash = "878832d7d77e9f885c3a31c9af816ca2d1379b5c3bff873caa236aa18c2cb4dc"
+metafile = true
+
+[[files]]
+file = "mods/keystrokes.pw.toml"
+hash = "13ad3cf3f6a1cae3453469784ea8ed5f8aecd37c560507bcd87341a6ae3a6c70"
+metafile = true
+
+[[files]]
+file = "mods/potion-effects.pw.toml"
+hash = "304fdf18a58157a07e0805aa833958b675df8d139677212f48a25c7790d2cfef"
+metafile = true
+
+[[files]]
+file = "mods/vanillahud.pw.toml"
+hash = "00ef365fd2bd4453e77bec58d1e06ffecb8d050b463970e59828034bc8c29473"
+metafile = true

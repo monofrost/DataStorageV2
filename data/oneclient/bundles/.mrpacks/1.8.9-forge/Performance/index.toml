@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "bb00ca5f39ff662d3ec269355e934ffa9e133212a681375fc222454e2c039627"
+metafile = true
+
+[[files]]
+file = "mods/notsoessential.pw.toml"
+hash = "2953d3ec291f0a24e3610242001c4d8a4e8cde2be861014c55b59f494a118fd3"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "396913ba271e4b1ef57cd0d7fde164ef00d9d6305e812f60e1090df910bb44b6"
+metafile = true
+
+[[files]]
+file = "mods/patcher.pw.toml"
+hash = "82889beeca678450be32f7fe9e998845d9e5761690e756ff159367db863eda0a"
+metafile = true
+
+[[files]]
+file = "mods/quickquit.pw.toml"
+hash = "18981b3cc6c4c14f007c1acddf3b92308e1be81adaab7dfd5331a1de2e11b4f7"
+metafile = true
+
+[[files]]
+file = "mods/rawinput.pw.toml"
+hash = "45770505699608d5c872b09ddfaac9be7f984baf7500c5476c4e38552cfb78f5"
+metafile = true
+
+[[files]]
+file = "mods/redirectionor.pw.toml"
+hash = "028b94f15675cce4ccb5674d53b8fca48f4acce665f2dc56a5d5229ce1eb3439"
+metafile = true

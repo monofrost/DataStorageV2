@@ -51,13 +51,19 @@ build_pack() {
   shift 2
   local -a categories=("$@")
 
-  local work mc fabric first_pack
+  local work mc loader loader_version first_pack
   first_pack="${categories[0]}/pack.toml"
   mc="$(pack_version_field "$first_pack" minecraft)"
-  fabric="$(pack_version_field "$first_pack" fabric)"
 
-  if [ -z "$mc" ] || [ -z "$fabric" ]; then
-    echo "Error: could not read minecraft/fabric version from $first_pack" >&2
+  # Whichever mod loader this pack pins, other than the `minecraft` entry.
+  for loader in fabric forge neoforge quilt liteloader; do
+    loader_version="$(pack_version_field "$first_pack" "$loader")"
+    [ -n "$loader_version" ] && break
+    loader=""
+  done
+
+  if [ -z "$mc" ] || [ -z "$loader" ]; then
+    echo "Error: could not read minecraft/loader version from $first_pack" >&2
     return 1
   fi
 
@@ -77,7 +83,7 @@ hash-format = "sha256"
 
 [versions]
 minecraft = "$mc"
-fabric = "$fabric"
+$loader = "$loader_version"
 EOF
 
   local category file rel

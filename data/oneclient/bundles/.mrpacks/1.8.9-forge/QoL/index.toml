@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c760fb9165dc7ca88a59fe30672b5806d473996adee183f4927a1bac8569b957"
+metafile = true
+
+[[files]]
+file = "mods/hytils.pw.toml"
+hash = "29b168cb73ffe05679c40ac4c52bb876d99155ef8f214141610dfb0a6632a147"
+metafile = true
+
+[[files]]
+file = "mods/overflowparticles.pw.toml"
+hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
+metafile = true
+
+[[files]]
+file = "mods/polyblur.pw.toml"
+hash = "a002eaeff2927a06f0b4ce27f5da69f6f9f6bc6c5ba26bf19531be651e09127a"
+metafile = true
+
+[[files]]
+file = "mods/polynametag.pw.toml"
+hash = "0770b264786387c7a6b95a26339b60677255818b7eef06c154c8320c04bc8632"
+metafile = true
+
+[[files]]
+file = "mods/polytime.pw.toml"
+hash = "b283f210eb8a5de715b838538c09edaac1c06143651e4e705cbcadf4655dc60b"
+metafile = true
+
+[[files]]
+file = "mods/polyweather.pw.toml"
+hash = "61ed1daa849edfa93ecab3d7b94ab688ae78d34ce33b91157b74bbcd480e0518"
+metafile = true
+
+[[files]]
+file = "mods/redaction.pw.toml"
+hash = "7721f4b939855fbf3887ffa294cb0c0e88d20d7db5b65aff45c858da48b5cb5f"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-organizer.pw.toml"
+hash = "8df2c4443ee7198d3ee7eba420a962e5f1ff7f1b7f7482fa2a3095e9688d1be0"
+metafile = true
+
+[[files]]
+file = "mods/tntcountdown.pw.toml"
+hash = "c0bf636102d687be6f3deaf4cec4be6068ad55873c5abfdfb4545886bf37970e"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "796201a275f50c1ca5edda2888aa1d261d2e3dd232b7e0ba83c8449686e18f12"
+metafile = true

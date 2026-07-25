@@ -1,0 +1,16 @@
+id = "MFYWYS0q"
+enabled = true
+hidden = false
+name = "Resource Pack Organizer"
+filename = "ResourcePackOrganizer  MC-1.8.9  v1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MFYWYS0q/versions/2oHLof4X/ResourcePackOrganizer%20%20MC-1.8.9%20%20v1.0.3.jar"
+hash-format = "sha512"
+hash = "34afb68afc84f2c84801d55cfbdc9365d00b1b765a4510e66ee5400b8fd00083565ac43da5196bb192e03d61eed32a49d285f3ec92ef756d9002cf3283dc925c"
+
+[update]
+[update.modrinth]
+mod-id = "MFYWYS0q"
+version = "2oHLof4X"

@@ -57,6 +57,8 @@ function checkMod(file) {
 }
 
 function checkBundle(bundlePath, bundle) {
+  // A freshly-initialised pack has no mods/ dir yet (git can't track it empty).
+  if (!fs.existsSync(`${bundlePath}/mods`)) return;
   const mods = fs.readdirSync(`${bundlePath}/mods`);
   const modIds = [];
   for (const mod of mods) {
