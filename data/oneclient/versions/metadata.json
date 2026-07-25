@@ -3,8 +3,8 @@
         {
             "major_version": 8,
             "name": "Bountiful Update",
-            "art": "/oneclient/versions/art/Tricky_Trials.jpg",
-            "long_description": "blah blah",
+            "art": "/oneclient/versions/art/Horse_Update.jpg",
+            "long_description": "Minecraft's 1.8 update, known as the \"Bountiful Update,\" primarily focuses on world generation and building, introducing ocean monuments, granite, diorite and andesite, slime blocks, and armor stands. It also features the guardian and endermite mobs, a rewritten resource pack system, and the combat mechanics that made 1.8.9 the enduring standard for PvP.",
             "tags": ["Bountiful Update"],
             "entries": [
                 {
