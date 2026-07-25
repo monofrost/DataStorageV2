@@ -4,6 +4,7 @@ hidden = false
 name = "Polytone"
 filename = "polytone-fabric-26.1.2-6.2.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/8jG5PVW9/polytone-fabric-26.1.2-6.2.1.jar"
