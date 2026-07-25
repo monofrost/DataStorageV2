@@ -6,6 +6,16 @@ hash = "c760fb9165dc7ca88a59fe30672b5806d473996adee183f4927a1bac8569b957"
 metafile = true
 
 [[files]]
+file = "mods/autotip.pw.toml"
+hash = "91c58284f949906d92acda34b2476317f1705d78b72c4ffba31526a7408e6121"
+metafile = true
+
+[[files]]
+file = "mods/blur.pw.toml"
+hash = "a652b7d881829e752149164f1f8da2c731ba6f8c6232f0e1270693e6a343691b"
+metafile = true
+
+[[files]]
 file = "mods/hytils.pw.toml"
 hash = "29b168cb73ffe05679c40ac4c52bb876d99155ef8f214141610dfb0a6632a147"
 metafile = true

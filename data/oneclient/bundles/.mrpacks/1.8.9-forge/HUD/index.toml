@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/potion-effects.pw.toml"
-hash = "304fdf18a58157a07e0805aa833958b675df8d139677212f48a25c7790d2cfef"
+hash = "ee970b6daaf707cf68cb98f76fc95f4659e19eda301fd0eba369b9855799b7a2"
 metafile = true
 
 [[files]]
