@@ -19,3 +19,8 @@ metafile = true
 file = "mods/optibye.pw.toml"
 hash = "c12f4c0929da8264189f3b86212aafb7861c841ca870390d9423bcfb00361b01"
 metafile = true
+
+[[files]]
+file = "mods/polysprint.pw.toml"
+hash = "199ee92263eb24d990f44acb0492685346d2a389699b0da6b8bea6f719f2d074"
+metafile = true
