@@ -11,7 +11,7 @@ update-url = "oneclient/generated/qol-1.8.9-forge.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "21b98993364d965aefafb127996c70300f168e191ab8bdfcdb076e685d899cdc"
+hash = "f54333a6380f8f2f3ba817ad08ef246149465ed1ee9255f4d420f58413f7a664"
 
 [versions]
 forge = "11.15.1.2318"
