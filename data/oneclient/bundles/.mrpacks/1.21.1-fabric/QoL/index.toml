@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chattweaks.pw.toml"
-hash = "7deab578b0800b83df5ff4ab00075a917c502e913c0e9917d6a6cba9f12eb76b"
+hash = "f3e440e8085907bc4f51011ae5aaec7875e0bdcfee9ee06df4994eb83db79e98"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "02376b5fe5c645408595923fec1010709cf0a2ebcb5f23dff89214e40ea02a0b"
+hash = "caa4a93379621aad7d7f972032ec20acc7fcb6f165b3122d756cb51c01182b37"
 metafile = true
 
 [[files]]
