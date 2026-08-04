@@ -61,7 +61,7 @@
                 {
                     "minor_version": 2,
                     "name": "Chaos Cubed",
-                    "art": "/oneclient/versions/art/Chaos_Cubed.jpg",
+                    "art": "/oneclient/versions/art/Miku_Update.jpg",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 }
