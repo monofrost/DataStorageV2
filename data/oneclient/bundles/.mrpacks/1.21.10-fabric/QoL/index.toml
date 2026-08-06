@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatting.pw.toml"
-hash = "4a037d7a323dafdcf0eae3313ef54625d41b5cc16aa34bd8e48e3379c9fb3927"
+hash = "703a4c26d8423d9a4633f7c21d324be081cbd7c3ddb958806e42a4b07ff7ebcb"
 metafile = true
 
 [[files]]
