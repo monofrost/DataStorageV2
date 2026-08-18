@@ -11,7 +11,7 @@ update-url = "oneclient/generated/hud-26.2-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0c7109a1f3071e3f3f06a16f8aa38be808a410dcc4c52ddf02ab7b033b0827c5"
+hash = "4449b9e76fd0ef07177a8f9ebe90970d33ca4366f4cc1ec0eb33525cd7c0c262"
 
 [versions]
 fabric = "0.19.3"
