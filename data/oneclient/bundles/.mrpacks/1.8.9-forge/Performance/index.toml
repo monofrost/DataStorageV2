@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/patcher.pw.toml"
-hash = "82889beeca678450be32f7fe9e998845d9e5761690e756ff159367db863eda0a"
+hash = "f8c27aa6c20f21c7573e047625dfab8269015805340cf27fb8862928018de26b"
 metafile = true
 
 [[files]]
