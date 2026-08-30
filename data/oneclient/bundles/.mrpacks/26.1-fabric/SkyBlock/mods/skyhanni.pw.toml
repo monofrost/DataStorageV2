@@ -2,15 +2,15 @@ id = "byNkmv5G"
 enabled = true
 hidden = false
 name = "SkyHanni for Hypixel SkyBlock"
-filename = "SkyHanni-7.51.0-mc26.1.jar"
+filename = "SkyHanni-7.52.0-mc26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/byNkmv5G/versions/tQUWPVzg/SkyHanni-7.51.0-mc26.1.jar"
+url = "https://cdn.modrinth.com/data/byNkmv5G/versions/fxLATOFA/SkyHanni-7.52.0-mc26.1.jar"
 hash-format = "sha512"
-hash = "a8f767a7ba762921d35a91e0a324c9f8ac39340e0b4ca7cf023a24fdadcc1726e71fdc04a5619645a9c24ae7ee694194efabf6d88e35961a49c97e6c9d4d1b7d"
+hash = "452cc9b4cc37beb7229a5903b9dbb1db69096949c0cc5fe452de884781153369d33248dacbe345cf8048f67074b11e2b03faa812bd465be899f3dc7a2da4b905"
 
 [update]
 [update.modrinth]
 mod-id = "byNkmv5G"
-version = "tQUWPVzg"
+version = "fxLATOFA"
